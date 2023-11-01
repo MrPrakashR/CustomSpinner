@@ -1,5 +1,5 @@
 #
-# Be sure to run `pod lib lint CustomSpinner.podspec' to ensure this is a
+# Be sure to run `pod lib lint LatestCustomSpinner.podspec' to ensure this is a
 # valid spec before submitting.
 #
 # Any lines starting with a # are optional, but their use is encouraged
@@ -7,7 +7,7 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = 'CustomSpinner'
+  s.name             = 'LatestCustomSpinner'
   s.version          = '0.1.0'
   s.summary          = 'Custom Spinning for your live project.'
 
